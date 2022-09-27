@@ -1,2 +1,3 @@
 test text
 new line of text
+text to check checkout
