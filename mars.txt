@@ -1,2 +1,2 @@
-test text
+test modified text
 new line of text
